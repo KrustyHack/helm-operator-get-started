@@ -10,7 +10,7 @@ metadata:
 spec:
   releaseName: podinfo-dev
   chart:
-    git: https://github.com/KrustyHack/helm-operator-get-started.git
+    git: git@github.com:KrustyHack/helm-operator-get-started.git
     path: charts/podinfo
     ref: master
   values:
